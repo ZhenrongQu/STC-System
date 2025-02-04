@@ -114,5 +114,5 @@ The Secure Trading Capturing System is a scalable and secure application designe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/STC-System.git
+   git clone https://github.com/ZhenrongQu/STC-System.git
    cd STC-System
